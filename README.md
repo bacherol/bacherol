@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/badge/Website-kcane.co-green)](https://kcane.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leandrolimacamargo-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/walterra/](https://www.linkedin.com/in/leandrolimacamargo/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leandrolimacamargo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leandrolimacamargo/)
 [![GitHub](https://img.shields.io/badge/GitHub-bacherol-black?style=flat-square&logo=github)](https://github.com/bacherol)
 
 Hey!
