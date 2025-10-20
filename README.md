@@ -1,6 +1,8 @@
 [![Website](https://img.shields.io/badge/Website-kcane.co-green)](https://kcane.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leandrolimacamargo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leandrolimacamargo/)
 [![GitHub](https://img.shields.io/badge/GitHub-bacherol-black?style=flat-square&logo=github)](https://github.com/bacherol)
+[![Twitter](https://img.shields.io/badge/X-leandrobachero-black?style=flat-square&logo=x)](https://x.com/leandrobachero)
+[![Instagram](https://img.shields.io/badge/Instagram-lbachero-black?style=flat-square&logo=Instagram)](https://instagram.com/lbachero)
 
 Hey!
 
