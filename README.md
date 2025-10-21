@@ -10,7 +10,7 @@ I'm currently working as Support Engineer at Elastic.
 
 ### Projects/Learnings
 
-- [**Very Basic Honeypot**](https://github.com/bacherol/vbh) - As the name says, this is a very basic honeypot to collect bad actors trying to get access to your instance.
+- [**Very Basic Honeypot**](https://github.com/bacherol/vbh) - As the name says, this is a very basic honeypot to collect bad actors trying to get access to your instance
 - [**PDF Splitter**](https://github.com/bacherol/pdf_splitter) - A tool to split PDF pages
 - [**Rock, Paper and Scissors**](https://fun.kcane.co/games/rockpaperscissors/index.html) - A basic game to relax. It was part of my JavaScript learning path
 
