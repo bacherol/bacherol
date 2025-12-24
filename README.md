@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/Website-kcane.co-green)](https://kcane.co)
+[![Website](https://img.shields.io/badge/Website-kcane.co-green)](https://kcane.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leandrolimacamargo-lightblue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leandrolimacamargo/)
 [![GitHub](https://img.shields.io/badge/GitHub-bacherol-black?style=flat-square&logo=github)](https://github.com/bacherol)
 [![Twitter](https://img.shields.io/badge/X-leandrobachero-blue?style=flat-square&logo=x)](https://x.com/leandrobachero)
@@ -6,13 +6,13 @@
 
 Hey!
 
-I'm currently working as Support Engineer at Elastic.
+I'm currently working as a Support Engineer at Elastic.
 
 ### Projects/Learnings
 
 - [**Very Basic Honeypot**](https://github.com/bacherol/vbh) - As the name says, this is a very basic honeypot to collect bad actors trying to get access to your instance
 - [**PDF Splitter**](https://github.com/bacherol/pdf_splitter) - A tool to split PDF pages
-- [**Rock, Paper and Scissors**](https://fun.kcane.co/games/rockpaperscissors/index.html) - A basic game to relax. It was part of my JavaScript learning path
+- [**Rock, Paper and Scissors**](https://fun.kcane.com.br/games/rockpaperscissors/index.html) - A basic game to relax. It was part of my JavaScript learning path
 
 
 
