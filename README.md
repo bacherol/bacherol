@@ -11,6 +11,7 @@ I'm currently working as a Support Engineer at Elastic.
 ### Projects/Learnings
 
 - [**Threat Intelligence Center**](https://tintel.kcane.com.br) - Vulnerable hosts around the world collecting info from bad actors
+- [**Threat Intelligence Lists**](https://github.com/bacherol/threat_intelligence_lists) - Lists with bad actors/IoCs to feed your firewall/security
 - [**Very Basic Honeypot**](https://github.com/bacherol/vbh) - As the name says, this is a very basic honeypot to collect bad actors trying to get access to your instance
 - [**PDF Splitter**](https://github.com/bacherol/pdf_splitter) - A tool to split PDF pages
 - [**Rock, Paper and Scissors**](https://fun.kcane.com.br/games/rockpaperscissors/index.html) - A basic game to relax. It was part of my JavaScript learning path
