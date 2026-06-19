@@ -12,6 +12,8 @@ I'm currently working as a Support Engineer at Elastic.
 
 - [**Threat Intelligence Center**](https://tintel.kcane.com.br) - Vulnerable hosts around the world collecting info from bad actors
 - [**Threat Intelligence Lists**](https://github.com/bacherol/threat_intelligence_lists) - Lists with bad actors/IoCs to feed your firewall/security
+- [**QR Secure Code**](https://qr.kcane.com.br) - Safely scan QR codes and inspect their destinations before visiting, helping protect against malicious websites and phishing attempts
+- [**NTool**](https://ntool.kcane.com.br) - A suite of network diagnostic tools, including Port Check, Ping, MTR, and DNS Lookup, with the ability to run tests from multiple locations worldwide
 - [**Very Basic Honeypot**](https://github.com/bacherol/vbh) - As the name says, this is a very basic honeypot to collect bad actors trying to get access to your instance
 - [**PDF Splitter**](https://github.com/bacherol/pdf_splitter) - A tool to split PDF pages
 - [**Rock, Paper and Scissors**](https://fun.kcane.com.br/games/rockpaperscissors/index.html) - A basic game to relax. It was part of my JavaScript learning path
